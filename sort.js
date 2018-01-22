@@ -7,6 +7,7 @@ const sortNumber = number => {
   });
 };
 
+// コメント追加してみた
 const number = [19, 3, 81, 1, 24, 21];
 sortNumber(number);
 console.log(number);const number = [];
